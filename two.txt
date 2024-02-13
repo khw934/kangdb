@@ -1,25 +1,3 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-#EXTINF:-1 ,CCTV10
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-#EXTINF:-1 ,CCTV13
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 ,CCTV14
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-#EXTINF:-1 ,CCTV15
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-#EXTINF:-1 ,CCTV16
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1 ,CCTV2
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-#EXTINF:-1 ,CCTV4
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1 ,CCTV5
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 ,CCTV8
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-#EXTINF:-1 ,CCTV9
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-#EXTINF:-1 ,爱家购物
-http://tvlive.siqiangame.com/ugotvlive/aijiatv.m3u8?auth_key=1860547259-0-0-77940e9d27746d1ae88f7d31e81191d0
